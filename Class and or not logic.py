@@ -1,3 +1,4 @@
+# Basic and or not example use with string input
 while True:
     print("enter True and False for understanding logical operators 'and', 'or', 'not'\n")
     b= input("enter True or False: ")
