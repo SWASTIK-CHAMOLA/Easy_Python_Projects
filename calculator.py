@@ -1,6 +1,6 @@
 print("Welcome to t=he calculator")
 print("\n")
-print("Press 1 for + 2 for - 3 for * and 4 for %")
+print("Press 1 for + 2 for - 3 for * and 4 for /")
 a = int(input("enter the choice: "))
 if a not in [1, 2, 3,4]:
     print("Invalid choice")
