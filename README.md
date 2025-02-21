@@ -1,5 +1,5 @@
 # Simple and Easy Projects to Get Started
-<big>Simple projects made in python to help and understand python better and how to make constructive things out of it.</big>
+Simple projects made in python to help and understand python better and how to make constructive things out of it.
 <br>
 ## Content
 
