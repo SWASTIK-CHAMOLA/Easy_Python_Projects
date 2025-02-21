@@ -1,6 +1,6 @@
 <h1>Projects starting </h1>
-<br><li>
-05/02/2025 Uploaded a simple working password generator made in python <br>
+<br><ol></ol><li>
+05/02/2025 Uploaded a simple working password generator made in python <br></li>
 06/02/2025 Uploaded a simple 'and', 'or', 'not' logic working in python<br>
 13/02/2025 Made a simple basic arithmetic calculator in python<br>
 14/02/2025 Made a simple compound interest calculator in python<br>
