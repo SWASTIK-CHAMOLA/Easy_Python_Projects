@@ -1,6 +1,11 @@
 # Simple and Easy Projects to Get Started
-Simple projects made in python to help and understand python better and how to make constructive things out of it.
+<p>Simple projects made in python to help and understand python better and how to make constructive things out of it.</p>
 <br>
+
+## Software Used 
+<p>PyCharm</p>
+<br>
+
 ## Content
 
 - **05/02/2025**:  Uploaded a simple working password generator made in python <br>
