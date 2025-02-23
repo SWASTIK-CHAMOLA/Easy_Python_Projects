@@ -18,3 +18,4 @@ Link to Download pycharm - https://www.jetbrains.com/pycharm/
 - **16/02/2025**: A user validated input program for entering name with certain restrictions. <br>
 - **18/02/2025**: A simple mobile phone keypad type code keypad. <br>
 - **21/02/2025**: Created a interactive shopping cart. <br>
+-**22/02/2025**: A flashcard generator which stores all the previous inputs in json file and can be used for revisions. <br>
