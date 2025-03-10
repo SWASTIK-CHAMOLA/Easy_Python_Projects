@@ -19,3 +19,4 @@ Link to Download pycharm - https://www.jetbrains.com/pycharm/
 - **18/02/2025**: A simple mobile phone keypad type code keypad. <br>
 - **21/02/2025**: Created a interactive shopping cart. <br>
 - **22/02/2025**: A flashcard generator which stores all the previous inputs in json file and can be used for revisions. <br>
+- **10/03/2025**: A dice simulator which takes user input for number of dice and returns their sum. <br>
