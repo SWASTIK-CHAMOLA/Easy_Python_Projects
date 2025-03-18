@@ -23,4 +23,3 @@ Link to Download pycharm - https://www.jetbrains.com/pycharm/
 - **17/03/2025**: A simple sample banking program simulator made using python <br>
 - **17/03/2025**: An interactive easy to use and fun slot machine made using python using random and time module
 - **18/03/2025**: An encrypted file made using python by importing string and random libraries.
-- 
