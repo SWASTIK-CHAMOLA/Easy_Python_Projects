@@ -1,5 +1,5 @@
-import json
-import random
+import json     # importing json file for storing and recording data
+import random   # to randomize the flashcards generated
 FLASHCARD_FILE = "flashcards.json"
 
 with open(FLASHCARD_FILE, "r") as file:
