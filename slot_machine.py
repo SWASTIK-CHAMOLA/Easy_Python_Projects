@@ -1,5 +1,5 @@
-import random
-import time
+import random  # to randomize the slot places which display the output
+import time    # to make delay in displaying the output
 
 def slot_row():
     symbols = ['🍋', '🍒', '🍉', '⭐', '🍺']
