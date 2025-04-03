@@ -48,8 +48,8 @@ python main.py
 ## Gameplay
 
 ![alt text](<Screenshot 2025-04-03 215633.png>) 
-![alt text](<Screenshot 2025-04-03 215737.png>)
-![alt text](image.png)
+![alt text](<Screenshot 2025-04-03 220255.png>)
+ ![alt text](<Screenshot 2025-04-03 220243.png>)
 ## Assets
 
 - **Images** (Spaceship, Meteors, Laser, Stars, Explosions) in `images/` folder
