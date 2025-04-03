@@ -25,12 +25,6 @@ Navigate to the project directory:
 cd space-shooter
 ```
 
-Install dependencies:
-
-```bash
-pip install pygame
-```
-
 Run the game:
 
 ```bash
@@ -50,6 +44,9 @@ python main.py
 - **Colliding with a meteor** results in game over.
 - **Shooting meteors** increases the score and triggers an explosion animation.
 - **Difficulty increases over time** by reducing meteor spawn intervals and increasing their speed.
+
+## Gameplay
+
 
 ## Assets
 
