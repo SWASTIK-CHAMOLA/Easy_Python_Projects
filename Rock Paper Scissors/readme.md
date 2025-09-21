@@ -1,5 +1,8 @@
 #  Rock Paper Scissors Ultimate
 
+<img width="934" height="667" alt="image" src="https://github.com/user-attachments/assets/3f62490f-b218-4193-bb6d-8aefa8f28460" />
+
+
 A visually stunning command-line Rock Paper Scissors game with beautiful ASCII art and an engaging user interface.
 
 ##  Features
